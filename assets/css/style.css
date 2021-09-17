@@ -312,6 +312,17 @@ button {
   color: #006837;
 }
 
+.section-title--border--end {
+  position: relative;
+  font-size: 30px;
+  text-align: center;
+  line-height: 1.06667;
+  margin: 0;
+  padding-bottom: 15px;
+  color: #fff;
+}
+
+
 .section-title--border::after {
   position: absolute;
   bottom: 0;
